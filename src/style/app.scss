@@ -1,0 +1,17 @@
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 400px;
+}
+
+.post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border: 2px solid cadetblue;
+  margin: 16px;
+}
